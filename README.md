@@ -1,5 +1,5 @@
 # lock
-binary locking library for Linux and BSD 
+binary locking library for Linux and BSD systems
 
 lock is self-writing patch library, directly onto the compiled binary
 
