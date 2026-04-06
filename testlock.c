@@ -23,7 +23,7 @@ int main(int argc, char *argv[])
 {
 
     while ( 1 ) {
-     license( stdout );
+     license( stdout ); // can be stderr or any C file stream
      sleep( 1 );
     }
 
